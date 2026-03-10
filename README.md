@@ -48,15 +48,9 @@ Every push to the `main` branch automatically updates the live site.
 
 # 📸 Screenshots
 
-## 🏠 Home Page
-
 ![Home Screenshot](screenshots/1.png)
 
-## 💻 Projects Section
-
 ![Projects Screenshot](screenshots/2.png)
-
-## 📱 Responsive Layout
 
 ![Responsive Screenshot](screenshots/3.png)
 
