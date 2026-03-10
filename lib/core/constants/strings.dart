@@ -15,7 +15,7 @@ class StringConst {
 
   // Hero
   static const String FIRST_NAME = "Abhijith P";
-  static const String INTRO = "Open to work";
+  static const String INTRO = "Available for opportunities";
   static const String POSITION = "Flutter Developer";
   static const String LOCATION = "Bangalore, India";
   static const String ABOUT_DEV =
