@@ -33,8 +33,6 @@ https://abhijithp65.github.io
 
 ---
 
----
-
 # ⚙️ CI/CD Deployment
 
 This project uses **GitHub Actions** to automatically:
