@@ -33,32 +33,6 @@ https://abhijithp65.github.io
 
 ---
 
-# 📂 Project Structure
-
-```
-lib
- ├ core
- │   ├ constants
- │   ├ theme
- │   └ utils
- │
- ├ features
- │   ├ portfolio
- │   │   ├ data
- │   │   │   ├ datasource
- │   │   │   ├ models
- │   │   │   └ repositories
- │   │   ├ domain
- │   │   │   ├ entities
- │   │   │   └ usecases
- │   │   └ presentation
- │   │       ├ providers
- │   │       ├ screens
- │   │       └ widgets
- │
- └ main.dart
-```
-
 ---
 
 # ⚙️ CI/CD Deployment
@@ -72,84 +46,20 @@ This project uses **GitHub Actions** to automatically:
 
 Every push to the `main` branch automatically updates the live site.
 
-Workflow file:
-
-```
-.github/workflows/deploy.yml
-```
-
 ---
 
 # 📸 Screenshots
 
 ## 🏠 Home Page
 
-![Home Screenshot](screenshots/home.png)
+![Home Screenshot](screenshots/1.png)
 
 ## 💻 Projects Section
 
-![Projects Screenshot](screenshots/projects.png)
+![Projects Screenshot](screenshots/2.png)
 
 ## 📱 Responsive Layout
 
-![Responsive Screenshot](screenshots/responsive.png)
-
----
-
-# 🧑‍💻 Running Locally
-
-Clone the repository:
-
-```
-git clone https://github.com/abhijithp65/abhijithp65.github.io.git
-```
-
-Navigate to the project:
-
-```
-cd personal_portfolio
-```
-
-Install dependencies:
-
-```
-flutter pub get
-```
-
-Run the web app:
-
-```
-flutter run -d chrome
-```
-
----
-
-# 📡 GitHub API Integration
-
-Repositories are fetched dynamically using:
-
-```
-https://api.github.com/users/abhijithp65/repos
-```
-
-This allows the portfolio to automatically display newly added projects.
-
----
-
-# 👨‍💻 Author
-
-**Abhijith P**
-
-Flutter Developer
-
-GitHub:
-https://github.com/abhijithp65
-
----
-
-# ⭐ Support
-
-If you like this project, please consider giving it a **star ⭐ on GitHub**.
-It helps and motivates me to build more open-source projects.
+![Responsive Screenshot](screenshots/3.png)
 
 ---
