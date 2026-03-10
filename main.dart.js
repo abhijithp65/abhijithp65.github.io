@@ -85515,7 +85515,7 @@ $0(){return A.r6(this.a.a.e)},
 $S:0}
 A.Wj.prototype={
 F(a){var s=null,r=A.br(20),q=A.cR(A.a_(89,B.e.m()>>>16&255,B.e.m()>>>8&255,B.e.m()&255),1),p=A.P(a).ok.Q
-return A.bu(s,A.cm(A.b([new A.F0(s),B.dg,new A.dM(1,B.bY,A.aw("Open to work",s,B.aJ,s,p==null?s:p.lQ(B.e,B.a4),s,s),s)],t.p),B.w,B.o,B.r,0),B.m,s,s,new A.aW(B.bJ,s,q,r,s,s,B.y),s,s,s,s,B.F3,s,s,s)}}
+return A.bu(s,A.cm(A.b([new A.F0(s),B.dg,new A.dM(1,B.bY,A.aw("Available for opportunities",s,B.aJ,s,p==null?s:p.lQ(B.e,B.a4),s,s),s)],t.p),B.w,B.o,B.r,0),B.m,s,s,new A.aW(B.bJ,s,q,r,s,s,B.y),s,s,s,s,B.F3,s,s,s)}}
 A.F0.prototype={
 aa(){return new A.Uw(null,null)}}
 A.Uw.prototype={
