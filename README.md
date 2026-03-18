@@ -55,3 +55,14 @@ Every push to the `main` branch automatically updates the live site.
 ![Responsive Screenshot](screenshots/3.png)
 
 ---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a PR.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
